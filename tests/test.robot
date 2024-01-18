@@ -11,7 +11,7 @@ Test Teardown   Terminate run
 
 *** Test Cases ***
 Submit new application
-    Given go to the URL provided
+    Given the user access the URL provided
     When login using the credentials provided
     And click Submit a new application button
     And check if Continue with the submission of the application is present

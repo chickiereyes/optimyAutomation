@@ -1,4 +1,4 @@
-# Optimy Test Aumation using Robot Framework
+# Optimy Test Automation using Robot Framework
 
 ## Overview
 This repository houses the test automation suite for Optimy's Test Website, specifically designed for QA applicants. The test suite is implemented using Robot Framework, leveraging Gherkin syntax for test case design and Python for scripting.
@@ -12,12 +12,13 @@ List any prerequisites that users need to install before running the test suite.
 - 
 
 ### Installation
+If dependencies are not yet installed in machine, run below code to install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
 ### Running the Test Suite
-Run the code below on your terminal
+Run the code below on your terminal to run the test:
 ```bash
 robot --outputdir log tests/
 ```

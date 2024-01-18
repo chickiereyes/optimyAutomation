@@ -37,7 +37,7 @@ Terminate run
     Set Speed
     Close Browser
 
-Go to the URL provided
+The user access the URL provided
     [Documentation]     Go to the URL to be tested and close cookie modal
     Go To    ${URL}
     Close cookies modal
