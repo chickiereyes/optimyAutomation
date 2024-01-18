@@ -9,7 +9,6 @@ List any prerequisites that users need to install before running the test suite.
 - Python (version 3.10 or higher)
 - Robot Framework (version 4.1.3 or higher)
 - Selenium (version 4.3.0 or higher)
-- 
 
 ### Installation
 If dependencies are not yet installed in machine, run below code to install dependencies:
